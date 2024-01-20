@@ -1,7 +1,7 @@
-![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*9CCs5F2GMeJRVraF4Oh2Bw.gif&tbnid=Ma9vVUMQdWZpjM&vet=12ahUKEwj76ZO7uOyDAxWbQWwGHff-AkoQxiAoCHoECAAQMg..i&imgrefurl=https%3A%2F%2Fpriya-5907.medium.com%2Fdo-you-know-the-top-web-development-technologies-of-2021-d700ad26e19&docid=eO-JtscGK1YcCM&w=800&h=600&itg=1&q=best%20animated%20photos%20for%20masterhead%20github%20readme%20on%20web%20developer&hl=en&ved=2ahUKEwj76ZO7uOyDAxWbQWwGHff-AkoQxiAoCHoECAAQMg)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align="right" alt="developer" width="400" src="https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63">
+<img align="right" alt="developer" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayg56&label=Profile%20views&color=0e75b6&style=flat" alt="vinayg56" /> </p>
 
