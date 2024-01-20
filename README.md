@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336)]
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" alt="developer" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
