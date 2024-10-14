@@ -1,25 +1,23 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="developer" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayg56&label=Profile%20views&color=0e75b6&style=flat" alt="vinayg56" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vinay_568" target="blank"><img src="https://img.shields.io/twitter/follow/vinay_568?logo=twitter&style=for-the-badge" alt="vinay_568" /></a> </p>
 
-- 🔭 I’m currently working on [Full stack E-Commerce Website](https://github.com/VinayG56/Shopper_E-commerce)
+- 🌱 I’m currently learning **Data Science**
 
-- 🌱 I’m currently learning **MERN**
+- 👯 I’m looking to collaborate on **Web Development and Data Science projects**
 
-- 👯 I’m looking to collaborate on **web development and web designing projects**
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://vinay56.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-vinay568.netlify.app/](https://portfolio-vinay568.netlify.app/)
-
-- 💬 Ask me about **Frontend development,C++,Python,DSA**
+- 💬 Ask me about **Full Stack Web Development,C++,DSA,Data Science**
 
 - 📫 How to reach me **vinaygollapalli5678@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jqM5CGZH7BhDtY6ROWyVXtHFQOmtPaG5/view?usp=drivesdk](https://drive.google.com/file/d/1jqM5CGZH7BhDtY6ROWyVXtHFQOmtPaG5/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FJ7tbZvJBEC5bMHWRfWuhDrKXCk3O1GV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
